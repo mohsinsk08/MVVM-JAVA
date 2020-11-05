@@ -1,7 +1,9 @@
 package com.mohsin.mvvmpractice2java.ui.passbook;
 
 import androidx.appcompat.app.AppCompatActivity;
+
 import android.os.Bundle;
+
 import com.mohsin.mvvmpractice2java.R;
 
 public class PassbookActivity extends AppCompatActivity {
